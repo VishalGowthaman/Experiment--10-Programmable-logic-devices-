@@ -32,8 +32,8 @@ Figure -01 PROM
 ### PROGRAM 
 ```
 Program for PROM 
-Developed by: EZHIL MATHI.R
-RegisterNumber:  212221230026
+Developed by: VISHAL GOWTHAMAN K R
+RegisterNumber:  212221230123
 
 module rom_code(out, addr, CS);
 output[15:0] out;
